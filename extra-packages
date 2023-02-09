@@ -18,6 +18,8 @@ neovim
 npm
 plocate
 python3
+python3-virtualenv
+python3-pip
 ripgrep
 speedtest-cli
 starship
